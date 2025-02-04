@@ -1,0 +1,1 @@
+This repository demonstrates a common bug in Tcl related to argument handling in procedures. The bug arises from a misunderstanding of how Tcl handles different data types as procedure arguments. The `bug.tcl` file contains the erroneous code, while `bugSolution.tcl` provides the corrected version.
